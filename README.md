@@ -1,5 +1,5 @@
 # Ideakart.Com
-## Introduction to our project(https://ideakart.com/ clone):
+## Introduction to our project(https://incandescent-elf-2f85d6.netlify.app/ clone):
 
 Ideakart is a site that gives u an idea about the book you want to buy
 
