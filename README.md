@@ -49,6 +49,11 @@ Neha Sahu
 * Github : hinehasahu
 * LinkeIn : [LinkedIn](https://www.linkedin.com/in/neha-sahu-/)
 
+Atul Kumar 
+* Github : AtulKumar69
+* LinkedIn : [LinkedIn](https://www.linkedin.com/in/atul-kumar-panigrahi-a7969121a/)
+
+
 Arun Raj MK
 * Github : ArunrajMK
 * LinkedIn : [LinkedIn](https://www.linkedin.com/in/arunraj-mk-45241b237/)
@@ -57,9 +62,6 @@ Chandan Kumar
 * Github : Goluchandan
 * LinkedIn : [LinkedIn](https://www.linkedin.com/in/chandan-kumar-8b0284205/)
 
-Atul Kumar 
-* Github : AtulKumar69
-* LinkedIn : [LinkedIn](https://www.linkedin.com/in/atul-kumar-panigrahi-a7969121a/)
 
 Divya 
 * Github : Divya3419
